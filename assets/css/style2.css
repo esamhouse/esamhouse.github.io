@@ -30,6 +30,14 @@ textarea {
  * Customize the background color to match your design.
  */
 
+
+.img-thumbnail{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+
 ::-moz-selection {
     background: #f2c2c9;
     color: #a4003a;
@@ -340,7 +348,7 @@ h1, h2, h3, h4, h5, h6 {
 	position: relative;
 }
 .about {
-	background-image: url(../img/about-sep.jpg);
+	background-image: url(../img/love.jpg);
 }
 
 /* Portfolio Wrap Section */
@@ -379,7 +387,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio {
-	background-image: url(../img/portfolio-sep.jpg);
+	background-image: url(../img/1층/그네.jpg);
+	
 }
 
 /* Service Wrap */
